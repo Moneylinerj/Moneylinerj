@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech and building PCs
 - 🌱 I’m currently learning IT
 - 📫 How to reach me: moneylinerj@gmail.com
-- ⚡ Fun fact: I like to game
+- ⚡ Fun fact: I like to game and enjoy watching sports
 
 <!---
 Moneylinerj/Moneylinerj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
