@@ -14,5 +14,4 @@
 
 <h2>📩Contact Me</h2>
 
-<a href="[https://www.linkedin.com/in/rhett-newton-a03813186" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
+<p align="left"> <a href="https://www.github.com/ACompleteNoobSmoke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/omoruyi-omofonmwan-03104494/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
